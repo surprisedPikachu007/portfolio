@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Computer Science and Engineering student.
 
@@ -13,13 +13,13 @@ profile:
     <p>Thiruvalluvar Street, Seeranaicken Palayam</p>
     <p>Coimbatore, Tamil Nadu - 641007</p>
 
-news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
-I am a final year undergraduate student at [Dr. N.G.P. Institute of Technology](https://www.drngpit.ac.in/), Coimbatore, India. I am pursuing a Bachelor's degree in Computer Science and Engineering. 
+I am a final year undergraduate student at [Dr. N.G.P. Institute of Technology](https://www.drngpit.ac.in/), Coimbatore, India. I am pursuing a Bachelor's degree in Computer Science and Engineering.
 
 Throughout my academic journey, I have gained a strong foundation in programming languages such as Java, Python and C. I have also delved into various web development frameworks and tools, including React and Django.
 
